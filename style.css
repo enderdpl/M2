@@ -3,7 +3,42 @@ h1{
     text-align: center;
 }
 header{
+    padding: 50px 20px 50px 20px ;
+    font-size: 2rem;
     background-color: rgb(71, 58, 61);
     color: aliceblue;
     text-align: center;
+
+}
+.somos_cachu{
+    padding: 100px;
+    text-align: center;
+}
+
+footer{
+    padding: 200px 20px 50px 20px ;
+    text-align: center;
+    color: rgb(254, 254, 254);
+    background-color: cornflowerblue;
+
+}
+
+.products {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: yellow;
+}
+
+.gallery {
+    display: flex;
+    padding: 100px 20px;
+    justify-content: space-between;
+}
+
+.gallery  img {
+    max-width: 20%;
+}
+
+.menu{
+    color: white;
 }
